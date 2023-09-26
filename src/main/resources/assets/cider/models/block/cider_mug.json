@@ -1,0 +1,6 @@
+{
+  "parent": "cider:block/filled_mug",
+  "textures": {
+		"fluid": "cider:block/fluid_cider"
+  }
+}

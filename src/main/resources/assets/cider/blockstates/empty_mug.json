@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cider:block/empty_mug"
+    }
+  }
+}
